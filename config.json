@@ -1,0 +1,13 @@
+{
+    "url": "https://enigmatic-sands-84241.herokuapp.com",
+    "secret": "e4956234-342f-4c73-ac37-e6d7bef32f4c",
+    "database": "mongo",
+    "mongo": {
+        "host": "127.0.0.1",
+        "port": 27017,
+        "username": "",
+        "password": "",
+        "database": "nodebb",
+        "uri": "mongodb://sfan:20000102a@ds029831.mlab.com:29831/heroku_kqnb9n6s"
+    }
+}
